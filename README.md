@@ -1,2 +1,3 @@
 # JDBC-Console-CRUD-Operations
 Create a Java console application that demonstrates JDBC (Java Database Connectivity) integration with a relational database for performing CRUD (Create, Read, Update, Delete) operations. This project will help you understand how to connect to a database, execute SQL queries, and manage data through a simple console interface. 
+Features:  Database Connection: Implement a JDBC connection to a relational database (MySQL). Set up the necessary configuration for the database connection, such as URL, username, and password. Table Creation: Design a table schema for the application (e.g., User table with fields like ID, Name, Email, etc.). Create the table using MySQL statements within the application.
